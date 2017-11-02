@@ -15,6 +15,7 @@ import a00123456.lab.view.HTMLManager;
 /**
  * Servlet implementation class Lab01Servlet
  */
+/**new changes added */
 
 public class Lab01Servlet extends HttpServlet {
 	private static final long serialVersionUID = 1L;
